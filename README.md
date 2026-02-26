@@ -1,6 +1,6 @@
 # 💻 HTML e CSS - Origamid e Rocketseat
 
-## ✨ HTML e CSS para iniciantes
+## ⭐️ HTML e CSS para iniciantes
 
 Front End, HTML, Tags, Acessibilidade, CSS, Grid Layout, FLexbox, Media Queries, Responsivo, VSCODE de mais.
 
