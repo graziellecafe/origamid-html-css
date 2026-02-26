@@ -1,53 +1,54 @@
-# 💻 HTML e CSS - Origamid
+# 💻 HTML e CSS - Origamid e Rocketseat
 
 ## ✨ HTML e CSS para iniciantes
 
 Front End, HTML, Tags, Acessibilidade, CSS, Grid Layout, FLexbox, Media Queries, Responsivo, VSCODE de mais.
 
-## ✨ Pré Requisitos
+### ✨ Pré Requisitos
 
 Totalmente do zero
 
-## ✨ Ferramentas
+### ✨ Ferramentas
 
 Visual Studio Code
 
-## ✨ HTML e CSS para iniciantes
+### ✨ HTML e CSS para iniciantes
 
 HTML, CSS, Javascript, Editor de Código e Browser
 
-## ✨ HTML e CSS Básico
+### ✨ HTML e CSS Básico
 
 Tag, Estrutura, HTML, Editor, CSS Básico, Box Model, Display, Imagens
 
-## ✨ CSS Posicionamento
+### ✨ CSS Posicionamento
 
 Margin, Grid, Flexbox, Position
 
-## ✨ HTML e Semântica
+### ✨ HTML e Semântica
 
 Semântica e Acessibilidade, Pontos de Referência, Listas, Navegação
 
-## ✨ CSS Propriedades
+### ✨ CSS Propriedades
 
 Unidades, Tipografia, Background, Pseudo Classes e Elementos.
 
-## ✨ Hello World simples
+### ✨ Hello World simples
 
-///
+```js
 
 <h1 id="texto">Hello World</h1>
 
 <style>
-  h1 { 
+  h1 {
     color: blue;
   }
 <style>
 
   <script>
-  function mudar(){ 
-    texto.style.color = 'red'; 
+  function mudar(){
+    texto.style.color = 'red';
   }
 
-  texto.addEventListener('click', mudar); 
+  texto.addEventListener('click', mudar);
   </script>
+```
